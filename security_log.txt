@@ -1,0 +1,13 @@
+Patient,1,LOCKED
+Doctor,12,LOCKED
+Admin,2,LOCKED
+Admin,1,LOCKED
+Patient,6,LOCKED
+Doctor,Mrpooper,LOCKED
+Patient,2,LOCKED
+Admin,1,LOCKED
+Doctor,1,LOCKED
+Patient,2,FAILED
+Patient,1,FAILED
+Patient,1,FAILED
+Admin,1,SUCCESS
